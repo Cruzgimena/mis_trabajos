@@ -1,0 +1,21 @@
+fieldset{
+    width: 50%;
+    margin: 5% auto;
+    background-color: #ad21e9a5;
+
+}
+
+form{
+    
+    background-color: #e68d2f9e;
+    border: 2px solid #000000d8;
+}
+h1{
+    background-color: rgba(0, 255, 255, 0.568);
+    border: #2171e996;
+
+}
+h2{
+    background-color: rgba(255, 168, 55, 0.825);
+    border: #e2c314;
+}
